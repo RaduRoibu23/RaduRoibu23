@@ -15,7 +15,6 @@ With a track record of completing diverse projects on time, I am always ready to
 - **[Learning Design Patterns in Java](https://github.com/RaduRoibu23/Learning-Design-Patterns.git):** This project serves as a university learning experience, showcasing the practical application of design patterns to enhance software scalability and maintainability.
 
 <p align="center">
-<a href="https://www.instagram.com/_.ursu._/" target="_blank" style="margin:50px"><img style="width:5%" src="instagram.svg"/></a>
 <a href="https://www.linkedin.com/in/roibu-radu-920513257/" target="_blank" style="margin:50px"><img style="width:5%" src="linkedin.svg"/></a>
 </p>
 
