@@ -4,7 +4,7 @@
 With a track record of completing diverse projects on time, I am always ready to tackle challenging tasks and continuously enhance my technical skills. </p></b>
 
 
-# **Junior Software Engineer**
+
 ### 🔹 **Featured Projects**
 
 - **[Mini Lib C](https://github.com/RaduRoibu23/Mini-Lib-C.git):** A library implementation project designed to optimize essential functions, simulating a basic C standard library.
