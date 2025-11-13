@@ -1,4 +1,4 @@
-# **Last-Year Computer Science Student **
+# **Last-Year Computer Science Student**
 
 <b><p align="center">I am a dedicated and hardworking individual with solid skills in C and C++. Currently in my third year of studying Computer Science, I have a strong foundation in routing, extensive knowledge of operating systems, and am known for my critical thinking and collaborative approach as a team player.
 With a track record of completing diverse projects on time, I am always ready to tackle challenging tasks and continuously enhance my technical skills. </p></b>
